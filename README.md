@@ -55,11 +55,3 @@ The Inventory Management System is a web application built with Laravel, designe
 2. Manage products, categories, brands, suppliers, and customers from the respective sections.
 3. Record transactions for purchases and sales.
 4. View reports to analyze transaction history and inventory levels.
-
-## Contributors
-
-- [Mohammad Rakibul Haider](https://github.com/phi-rakib)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
